@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Neelesh Bhalla (@neelblabla)
-- 👀 I’m very interested and bullish on Data Science and Deep Learning based technologies
-- 🌱 I’m currently pursuing an MS degree in the field at Frankfurt School
-- 💞️ I’m looking to collaborate on data science and machine learning based projects
-- 📫 I can be reached on LinkedIn - https://www.linkedin.com/in/neeleshbhalla/
+👋 Hi, I’m Neelesh Bhalla (@neelblabla)
+Following is a summary of my background:
+- IIT Roorkee alumnus
+- Have worked in strategic positions with a few early stage Indian startups managing product and operations after a career start with a French oilfield MNC
+- Currently pursuing my fostered passion for Deep Learning and Neural Networks at Frankfurt School of Finance & Management
+
+github - https://github.com/neelblabla
+huggingface - https://huggingface.co/neelblabla
+twitter - https://twitter.com/neelblabla
 
 <!---
 neelblabla/neelblabla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
