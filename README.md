@@ -3,7 +3,7 @@
 Following is a brief summary of my background:
 - IIT Roorkee alumnus
 - Have worked in strategic positions with a few early stage Indian startups managing product and operations after a career start with a French oilfield MNC
-- Currently pursuing my fostered passion for Deep Learning and Neural Networks at Frankfurt School of Finance & Management
+- Currently pursuing my fostered passion for Deep Learning and Neural Networks
 
 linkedin - https://www.linkedin.com/in/neeleshbhalla/
 twitter - https://twitter.com/neelblabla
